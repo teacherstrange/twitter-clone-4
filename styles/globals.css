@@ -1,0 +1,30 @@
+:root {
+  /* General */
+  --black-color: #000;
+  --white-color: #fff;
+
+  --blue-color: #1d9bf0;
+  --hover-blue-color: #198cd8;
+
+  --blue-button-hover: #3b82f680;
+
+  /* Light Mode */
+  --LM--dark-text-color: #0f1419;
+  --LM--light-text-color: #536471;
+  --LM--border-color: #eff3f4;
+  --LM--card-color: #f7f9f9;
+  --LM--card-hover-color: #eff1f1;
+
+  /* Dark Mode */
+  --DM--dark-text-color: #71767a;
+  --DM--light-text-color: #e7e9ea;
+  --DM--border-color: #2f3336;
+  --DM--card-color: #16181c;
+  --DM--card-hover-color: #1d1f23;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
